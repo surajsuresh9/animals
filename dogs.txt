@@ -3,3 +3,6 @@ Dogs
 Spike
 Buster
 Charlie
+Kieran
+Justin
+Olive
